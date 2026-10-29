@@ -1,6 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MeyLih&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=UX/UI%20Design%20%7C%20VR%20for%20Education%20%7C%20Research%20%26%20Storytelling&descAlignY=55&descAlign=50)
+# Oeurn Meylih
+
+**Digital Business Student | UX/UI Design | VR for Education**
+
+Cambodia Academy of Digital Technology (CADT) · Phnom Penh
 
 </div>
 
