@@ -50,7 +50,7 @@ Team V-01 project: explore **all eight planets** of the Solar System in VR and c
 - **Problem:** students struggle to picture planetary science from 2D textbooks
 - **Solution:** a Solar System hub where learners travel to each planet, read or listen to descriptions, and take quizzes
 - **My role:** researched the scientific information, wrote the descriptions, and created the quiz used to test users
-- **Result (from our final report):** the prototype was demonstrated on demo day, and students reported higher engagement and curiosity than with textbook lessons
+- **Result:** the prototype was demonstrated on demo day, and students reported higher engagement and curiosity than with textbook lessons
 
 ### 🚢 TitanLift (C + GTK)
 Team project for Algorithm & Computational Thinking 2.
@@ -75,7 +75,7 @@ Individual project for Algorithm & Computational Thinking. **I designed, coded a
 
 - **Bac II 2025:** Grade A
 - **CADT Freshman Coding Championship (CFCC):** Warrior level, 11 July 2026
-- **CADT Next-Gen Program** (17 Aug to 17 Sep 2026): completed Introduction to Business, E-Commerce, UX/UI Design and Marketing Strategy
+- **CADT Next-Gen Program** (17 Aug to 17 Sep 2026): completed courses Introduction to Business, E-Commerce, UX/UI Design and Marketing Strategy
 
 ---
 
