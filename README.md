@@ -22,20 +22,6 @@ I like turning research into clear, engaging experiences. In my team projects I 
 
 ---
 
-## 🥽 What I Bring to VR Projects
-
-| Skill | Where I used it |
-|---|---|
-| **Research and science content** | Gathered and verified the planet facts for PlanetVerse (VR) |
-| **Clear explanations** | Wrote the descriptions users read inside the VR experience |
-| **User testing** | Created the quiz used to test what users learned |
-| **Storytelling** | Built the Titanic-based story and concept behind TitanLift |
-| **UX/UI design** | Designed the Unicom app in Figma and completed the CADT Next-Gen UX/UI Design course |
-| **Systems thinking and coding** | Designed and coded my own Scratch game that models a simple ecosystem (producer and consumer) |
-| **Documentation** | Wrote project reports, flowcharts and slides for every project below |
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
