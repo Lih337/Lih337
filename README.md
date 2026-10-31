@@ -26,7 +26,7 @@ I like turning research into clear, engaging experiences. In my team projects I 
 
 | Project | Description |
 |---|---|
-| [**PlanetVerse**](https://github.com/Lih337/planetverse-vr) | VR educational app for exploring the Solar System (Team V-01) |
+| [**PlanetVerse**](https://github.com/Lih337/planetverse-vr) | VR educational simulation for exploring the Solar System (Team V-01) |
 | [**TitanLift**](https://github.com/Lih337/titanlift-elevator-sim) | Elevator simulation in C + GTK with VIP card express mode, a priority queue and an emergency alarm |
 | [**Monkey Banana Adventure**](https://github.com/Lih337/monkey-banana-adventure) | Scratch game I coded myself: models a simple ecosystem, with 3 score levels |
 | [**Unicom**](https://github.com/Lih337/unicom-ux-prototype) | Chat app designed in Figma, built as a clickable prototype |
