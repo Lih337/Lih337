@@ -42,7 +42,6 @@ Team V-01 project: explore **all eight planets** of the Solar System in VR and c
 Team project for Algorithm & Computational Thinking 2.
 - Priority queue: **ALARM > VIP > NORMAL**; VIP floor 9 only with a valid card scan
 - Capacity limit of 8 passengers / 560 kg, emergency alarm mode and a live activity log
-- **My role:** Titanic-themed research and storytelling, all slides, flowcharts and the written report
 
 ### 🐵 Monkey Banana Adventure (Scratch)
 Individual project for Algorithm & Computational Thinking. **I designed, coded and documented it myself.**
@@ -80,8 +79,8 @@ Individual project for Algorithm & Computational Thinking. **I designed, coded a
 
 - Deepening my **UX/UI design** skills
 - Building VR experiences for education
-- Preparing for **IELTS** (English for study and international programs)
-
+- Preparing for **IELTS**
+  
 <!-- SIMPLE VR CONTEST: add this line after your team confirms the concept
 - Working with my team on a VR concept for the SIMPLE VR Contest (ASEAN)
 -->
